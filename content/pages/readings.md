@@ -8,29 +8,267 @@ Readings listed in this section are from the required textbook:
 
 Kleppner, Daniel, and Robert J. Kolenkow. _An Introduction to Mechanics_. New York, NY: McGraw-Hill, 1973. ISBN: 9780070350489.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Intro and vector definitions | Chapter 1 |
-| 2 | Motion in cartesian and polar coordinates |
-| 3 | Newton's laws and forces | Chapter 2 |
-| 4 | Application of Newton's laws I |
-| 5 | Application of Newton's laws II |
-| 6 | Momentum | Chapter 3 |
-| 7 | Collisions I |
-| 8 | Rocket motion |
-| 9 | Energy | Chapter 4 |
-| 10 | Potential energy |
-| 11 | Energy conservation |
-| 12 | Collisions II |
-| 13 | Fixed axis rotation | Chapter 6 |
-| 14 | Moment of Inertia |
-| 15 | Rotational and translational motion |
-| 16 | Rigid body motion | Chapter 7 |
-| 17 | Gyroscopic motion I |
-| 18 | Gyroscopic motion II |
-| 19 | Cavendish experiment |
-| 20 | Moment of Inertia tensor |
-| 21 | Euler's equations/accelerated reference frames | Chapters 7 and 8 |
-| 22 | Accelerated and rotating reference frames | Chapter 8 |
-| 23 | Central force motion and Kepler's laws | Chapter 9 |
-| 24 | Foundations of relativity | Chapter 11
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Intro and vector definitions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Motion in cartesian and polar coordinates
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Newton's laws and forces
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Application of Newton's laws I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Application of Newton's laws II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Momentum
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Collisions I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Rocket motion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Potential energy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Energy conservation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Collisions II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Fixed axis rotation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Moment of Inertia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Rotational and translational motion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Rigid body motion
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Gyroscopic motion I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Gyroscopic motion II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Cavendish experiment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Moment of Inertia tensor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Euler's equations/accelerated reference frames
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 7 and 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Accelerated and rotating reference frames
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Central force motion and Kepler's laws
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations of relativity
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

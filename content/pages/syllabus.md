@@ -40,10 +40,81 @@ Grading
 
 Your grade will be based on weekly homework problem sets, exams (3 midterms and a final), in-class concept tests, and a class project.
 
-| ACTIVITIES | PERCENTAGES | DETAILS |
-| --- | --- | --- |
-| Homework | 25% | 1 assignment per week |
-| In-lecture concept tests | 5% | ~1-2 per lecture |
-| Project | 5% | &nbsp; |
-| Midterm exams | 45% | 3 exams, each counting 15% |
-| Final exam | 20% |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+DETAILS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+{{< tdopen >}}
+1 assignment per week
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-lecture concept tests
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+~1-2 per lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exams
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+{{< tdopen >}}
+3 exams, each counting 15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
