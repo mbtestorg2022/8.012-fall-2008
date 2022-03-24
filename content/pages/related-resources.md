@@ -65,7 +65,7 @@ SOLUTIONS
 ([PDF]({{< baseurl >}}/resources/exam1-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/05quiz1sol))
+([PDF]({{< baseurl >}}/resources/05quiz1sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +123,7 @@ SOLUTIONS
 ([PDF]({{< baseurl >}}/resources/exam2-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3-1))
+([PDF]({{< baseurl >}}/resources/ps3-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +188,7 @@ SOLUTIONS
 ([PDF]({{< baseurl >}}/resources/final_exam))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_f05sol))
+([PDF]({{< baseurl >}}/resources/final_f05sol))
 {{< tdclose >}}
 
 {{< trclose >}}
